@@ -80,7 +80,6 @@ represent a map between a domain and the signal value. Interestingly, hypernetwo
 - [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661) (Sitzmann et. al 2020)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/abs/1906.01618) (Sitzmann et. al 2019)
 - [Adversarial Generation of Continuous Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Skorokhodov_Adversarial_Generation_of_Continuous_Images_CVPR_2021_paper.pdf) (Skorokhodov et. al 2021)
-- [Adversarial Generation of Continuous Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Skorokhodov_Adversarial_Generation_of_Continuous_Images_CVPR_2021_paper.pdf) (Skorokhodov et. al 2021)
 - [MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images](https://neuralbodies.github.io/metavatar/) (Wang et. al 2021)
 
 
