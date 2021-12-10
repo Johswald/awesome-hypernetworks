@@ -115,14 +115,16 @@ The following papers use hypernetworks to model a distribution over the weights 
 network. For example, one can use a hypernetwork to transform a simple normal distribution into a
 potentially complex weight distribution that captures the epistemic uncertainty of the model.
 
-- [Uncertainty estimation under model misspecification in neural network regression](https://arxiv.org/abs/2111.11763) (Cervera et. al 2021)
-- [Probabilistic Meta-Representations Of Neural Networks](https://arxiv.org/abs/1810.00555) (Karaletsos et. al 2018)
 - [Implicit Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1711.01297) (Pawlowski et. al 2017)
 - [Bayesian Hypernetworks](https://arxiv.org/abs/1710.04759) (Krueger et. al 2017)
-- [Neural networks with late-phase weights](https://arxiv.org/abs/2007.12927) (von Oswald et. al 2020)
-- [Approximating the Predictive Distribution via Adversarially-Trained Hypernetworks](https://www.zora.uzh.ch/id/eprint/168578/) (Henning et. al 2018)
-- [Hierarchical Gaussian Process Priors for Bayesian Neural Network Weights](https://arxiv.org/abs/2002.04033) (Karaletsos & Bui 2020)
+- [Probabilistic Meta-Representations Of Neural Networks](https://arxiv.org/abs/1810.00555) (Karaletsos et. al 2018)
 - [Neural Autoregressive Flows](http://proceedings.mlr.press/v80/huang18d/huang18d.pdf) (Huang et. al 2018)
+- [Approximating the Predictive Distribution via Adversarially-Trained Hypernetworks](https://www.zora.uzh.ch/id/eprint/168578/) (Henning et. al 2018)
+- [Neural networks with late-phase weights](https://arxiv.org/abs/2007.12927) (von Oswald et. al 2020)
+- [Hierarchical Gaussian Process Priors for Bayesian Neural Network Weights](https://arxiv.org/abs/2002.04033) (Karaletsos & Bui 2020)
+- [Uncertainty estimation under model misspecification in neural network regression](https://arxiv.org/abs/2111.11763) (Cervera et. al 2021)
+
+
 ## Others
 Other hypernetwork papers that do not fall in the categories above. 
 - [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf) (Ha & Eck 2017)
