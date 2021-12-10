@@ -1,6 +1,6 @@
 # Awesome hypernetworks
 
-A curated list of awesome hypernetwork resources, inspired by and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome implicit representations](https://github.com/vsitzmann/awesome-implicit-representations).
+A curated list of awesome hypernetwork resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome implicit representations](https://github.com/vsitzmann/awesome-implicit-representations).
 
 ## Introduction
 Hpernetworks have become very common in the field of deep learning and appear in some
