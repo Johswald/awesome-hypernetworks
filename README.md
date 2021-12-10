@@ -141,4 +141,9 @@ The following links implemented different Hypernetwork in Pytorch code.
 - [hypnettorch](https://github.com/chrhenning/hypnettorch) (Christian Henning & Maria Cervera)
 - [HyperNetworks](https://github.com/g1910/HyperNetworks) (Gaurav Mittal)
 
+# Talks
 
+- [Hypernetworks: a versatile and powerful tool](https://www.youtube.com/watch?v=KY9DoutzH6k) (Lior Wolf)
+
+## License
+License: MIT
