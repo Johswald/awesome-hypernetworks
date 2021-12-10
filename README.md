@@ -63,7 +63,7 @@ here but mention this Schlag, Irie and Schmidhuber paper that discuss the euqiva
 
 - [Linear Transformers Are Secretly Fast Weight Programmers](https://arxiv.org/abs/2102.11174) (Schlag et. al 2021)
 
-# Architecture search and Hypernetworks used in Neuroevolution
+## Architecture search and Hypernetworks used in Neuroevolution
 There has been very nice ideas that use Hypernetworks in architecture search. This list is probably far from accurate and complete. 
 - [A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks](https://ieeexplore.ieee.org/document/6792316) (Stanley et. al 2009)
 - [Evolving Neural Networks in Compressed Weight Space](https://people.idsia.ch/~juergen/gecco2010koutnik.pdf) (Koutník et. al 2010)
@@ -71,7 +71,7 @@ There has been very nice ideas that use Hypernetworks in architecture search. Th
 - [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344) (Brock et. al 2017 )
 - [Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/abs/1810.05749) (Zhang et. al 2019)
 
-# Implicit Neural Representations
+## Implicit Neural Representations
 Implicit Neural Representations are continuous functions, usually neural networks, that simply
 represent a map between a domain and the signal value. Interestingly, hypernetworks are used in this framework intensively. 
 
@@ -84,7 +84,7 @@ represent a map between a domain and the signal value. Interestingly, hypernetwo
 - [MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images](https://neuralbodies.github.io/metavatar/) (Wang et. al 2021)
 
 
-# Meta- and Continual Learning
+## Meta- and Continual Learning
 Also Algorithms that tackle meta- and continual learning with the help of hypernetworks been developed. Naturally, one can view the considered problems as acting on different time
 scales and formulate them as solutions to a bilevel optimization or related formulations where
 Hypernetworks can work well.
@@ -103,7 +103,7 @@ Hypernetworks can work well.
 - [Continual Learning in Recurrent Neural Networks](https://arxiv.org/abs/2006.12109) (Ehret et. al 2020)
 - [Meta Internal Learning](https://papers.nips.cc/paper/2021/file/ac796a52db3f16bbdb6557d3d89d1c5a-Paper.pdf) (Bensadoun et. al 2021)
 
-# Reinforcement learning
+## Reinforcement learning
 I have not seen many papers so far that use hypernetworks to tackle RL problems explicitly. Please contact me if you know of any.
 
 - [Hypermodels for Exploration](https://arxiv.org/abs/2006.07464) (Dwaracherla et. al 2020)
@@ -111,7 +111,7 @@ I have not seen many papers so far that use hypernetworks to tackle RL problems 
 - [Recomposing the Reinforcement Learning Building Blocks with Hypernetworks](https://arxiv.org/pdf/2106.06842.pdf) (Keynan et. al 2021)
 
 
-# Modeling distributions
+## Modeling distributions
 The following papers use hypernetworks to model a distribution over the weights of the target
 network. For example, one can use a hypernetwork to transform a simple normal distribution into a
 potentially complex weight distribution that captures the epistemic uncertainty of the model.
@@ -124,7 +124,7 @@ potentially complex weight distribution that captures the epistemic uncertainty 
 - [Approximating the Predictive Distribution via Adversarially-Trained Hypernetworks](https://www.zora.uzh.ch/id/eprint/168578/) (Henning et. al 2018)
 - [Hierarchical Gaussian Process Priors for Bayesian Neural Network Weights](https://arxiv.org/abs/2002.04033) (Karaletsos & Bui 2020)
 - [Neural Autoregressive Flows](http://proceedings.mlr.press/v80/huang18d/huang18d.pdf) (Huang et. al 2018)
-# Others
+## Others
 Other hypernetwork papers that do not fall in the categories above. 
 - [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf) (Ha & Eck 2017)
 - [Measuring the Intrinsic Dimension of Objective Landscapes](https://arxiv.org/abs/1804.08838) (Li et. al 2018)
