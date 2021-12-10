@@ -135,3 +135,10 @@ Other hypernetwork papers that do not fall in the categories above.
 - [On the Modularity of Hypernetworks](https://arxiv.org/abs/2002.10006) (Galanti & Wolf 2020)
 - [Principled Weight Initialization for Hypernetworks](https://openreview.net/forum?id=H1lma24tPB) (Chang et. al 2020)
 
+# Links to Code
+The following to links implemented different Hypernetwork in Pytorch code. 
+
+- [hypnettorch](https://github.com/chrhenning/hypnettorch) (Christian Henning & Maria Cervera)
+- [HyperNetworks](https://github.com/g1910/HyperNetworks) (Gaurav Mittal)
+
+
