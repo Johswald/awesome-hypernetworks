@@ -44,8 +44,8 @@ Work on CNNs.
 - [Incorporating Side Information by Adaptive Convolution](https://proceedings.neurips.cc/paper/2017/file/e7e23670481ac78b3c4122a99ba60573-Paper.pdf) (Kang et. al 2017)
 - [Learning Implicitly Recurrent CNNs Through Parameter Sharing](https://arxiv.org/abs/1902.09701) (Savarese & Maire 2019)
 
-Work on generative models. The following two papers simply condition the generators of a GAN on side information. 
-Probably there is more interesting work, please contact me if you know of something. 
+Work on generative models. 
+The following two papers simply condition the generators of a GAN on side information. Probably there is more interesting work, please contact me if you know of something. 
 I also list my paper "continual learning with hypernetworks" here because we use a hypernetwork i.a. to generate weights of a decoder in a variational autoencoder. 
 
 - [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) (Brock et. al 2018)
