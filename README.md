@@ -46,7 +46,7 @@ Work on CNNs.
 
 Work on generative models. The following two papers simply condition the generators of a GAN on side information. 
 Probably there is more interesting work, please contact me if you know of something. 
-I included my paper continual learning with hypernetworks here because we use a hypernetwork i.a. to generate weights of a decoder in a VAE. 
+I also list my paper "continual learning with hypernetworks" here because we use a hypernetwork i.a. to generate weights of a decoder in a variational autoencoder. 
 
 - [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) (Brock et. al 2018)
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (Karras et. al 2018)
@@ -58,8 +58,8 @@ An overview of multiplicative interactions and hypernetworks
 
 
 ## Self-attention
-Self-attention are a form of adaptive layers. Nevertheless, I will not cover transformer literature
-here but mention this Schlag, Irie and Schmidhuber paper that discuss the euqivalence to fast weights:
+Self-attention is a form of adaptive layers. Nevertheless, I will not cover transformer literature
+here but mention this Schlag, Irie and Schmidhuber paper that discusses the equivalence to fast weights:
 
 - [Linear Transformers Are Secretly Fast Weight Programmers](https://arxiv.org/abs/2102.11174) (Schlag et. al 2021)
 
@@ -84,7 +84,7 @@ represent a map between a domain and the signal value. Interestingly, hypernetwo
 
 
 ## Meta- and Continual Learning
-Also Algorithms that tackle meta- and continual learning with the help of hypernetworks been developed. Naturally, one can view the considered problems as acting on different time
+Algorithms that tackle meta- and continual learning with the help of hypernetworks have been developed extensively. Naturally, one can view the considered problems as acting on different time
 scales and formulate them as solutions to a bilevel optimization or related formulations where
 Hypernetworks can work well.
 
@@ -126,7 +126,7 @@ potentially complex weight distribution that captures the epistemic uncertainty 
 
 
 ## Others
-Other hypernetwork papers that do not fall in the categories above. 
+Hypernetwork papers that do not fall in the categories above. 
 - [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf) (Ha & Eck 2017)
 - [Measuring the Intrinsic Dimension of Objective Landscapes](https://arxiv.org/abs/1804.08838) (Li et. al 2018)
 - [Neural Style Transfer via Meta Networks](https://openaccess.thecvf.com/content_cvpr_2018/html/Shen_Neural_Style_Transfer_CVPR_2018_paper.html) (Shen 2018)
@@ -136,7 +136,7 @@ Other hypernetwork papers that do not fall in the categories above.
 - [Principled Weight Initialization for Hypernetworks](https://openreview.net/forum?id=H1lma24tPB) (Chang et. al 2020)
 
 # Links to Code
-The following to links implemented different Hypernetwork in Pytorch code. 
+The following links implemented different Hypernetwork in Pytorch code. 
 
 - [hypnettorch](https://github.com/chrhenning/hypnettorch) (Christian Henning & Maria Cervera)
 - [HyperNetworks](https://github.com/g1910/HyperNetworks) (Gaurav Mittal)
